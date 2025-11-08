@@ -216,8 +216,9 @@ function handleQuickAction(action) {
   const routes = {
     'attendance': 'attendance.html',
     'invoice': 'invoice.html',
-    'leave': 'leave.html',
+    'leave': 'leave-menu.html',
     'kpi': 'kpi.html',
+    'employee-details': 'employee-details.html',
     'user-management': 'user-management.html'
   };
   
